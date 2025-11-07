@@ -11,4 +11,4 @@ for month in range(1, 13):
 
     print("-" * 20)
 # This code prints the calendar for each month of the year 2025 in a formatted manner.
-# Each month is displayed with the days of the week in Korean.
+# Each month is displayed with the days of the week in Korean.dddd
