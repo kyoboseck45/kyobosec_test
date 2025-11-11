@@ -15,7 +15,7 @@ for month in range(1, 13):
 
 # The output includes the year and month header, followed by the days of the week and the dates aligned properly.
 # 내주민번호 입력 했는데
-print("프로그램 종료)
+print("프로그램 종료")
 
 # 랜덤 메일 주소 생성 함수
 import random
